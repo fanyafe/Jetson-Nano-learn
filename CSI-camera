@@ -82,3 +82,6 @@ int main( int argc, char** argv )
     cap.release();
     destroyAllWindows() ;
 }
+// run  this code 
+//1.    g++ csi_camera.cpp -o test `pkg-config --cflags --libs opencv4`
+//2.    ./test
