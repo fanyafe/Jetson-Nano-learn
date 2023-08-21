@@ -1,3 +1,5 @@
+// jetson nano taking screenshots with usb camera
+
 #include <iostream>
 #include <string>
 #include <time.h>
